@@ -1,27 +1,42 @@
-## Hello! 👋 I’m Thanh Nam
+<h2 align="left">Hi 👋! My name is Thanh Nam and I'm a software engineer</h2>
 
-Welcome to my GitHub! This is where I share my projects, ideas, and learning journey.
+###
 
-### 🌟 About Me
-- 🔭 **I’m currently working on**: [e.g., "a mobile app with Flutter" or "a .NET backend system"]  
-- 🌱 **I’m currently learning**: [e.g., "advanced Flutter techniques" or "C# design patterns"]  
-- 👯 **I’m looking to collaborate on**: [e.g., "open-source Flutter projects" or ".NET applications"]  
-- 💬 **Ask me about**: [e.g., "Flutter, C#, or software development"]  
-- 📫 **How to reach me**: [e.g., "thanhnam22@example.com" or your LinkedIn/Twitter]  
-- ⚡ **Fun fact**: [e.g., "I once debugged code while drinking 3 cups of coffee in a row!"]
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=maurodesouza&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=maurodesouza&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+</div>
 
-### 🛠 Tools & Technologies
-![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)  
-![C#](https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)  
-![.NET](https://img.shields.io/badge/-.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)  
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+###
 
-### 📊 GitHub Stats
-![ThanhNam22's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ThanhNam22&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ThanhNam22&layout=compact&theme=radical)
+<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
 
-### ✨ Featured Projects
-- **[Project Name 1](link-to-repo)**: A brief description of the project.  
-- **[Project Name 2](link-to-repo)**: A brief description of the project.
+<h2 align="left">🛠 Tech Stack:</h2>
 
-Thanks for stopping by! Let’s connect and build something amazing together! 😄
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="30" alt="flutter logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="30" alt="dart logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" height="30" alt="dotnet logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="30" alt="microsoft sql server logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo" />
+</div>
+
+###
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
+
+###
