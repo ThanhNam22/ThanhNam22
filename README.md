@@ -7,22 +7,22 @@
 ###
 
 <div align="center">  
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ThanhNam22&theme=radical)
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ThanhNam22&theme=radical" alt="GitHub Streak" />
 </div>
+
 <div align="center">
 <table>
   
-| My Github Stats             | My most used languages |
-:-:|:-:
-[![Stats](https://acedev003-readme-stats.vercel.app/api?username=ThanhNam22&show_icons=true&theme=radical&count_private=true&hide=issues,contribs)](https://github.com/ThanhNam22)|[![Langs](https://acedev003-readme-stats.vercel.app/api/top-langs/?username=ThanhNam22&layout=compact&theme=radical&hide=c%2b%2b,c,HTML,CMake,Batchfile,VBscript,autoit)](https://github.com/ThanhNam22)
+| My Github Stats | My most used languages |
+|:-:|:-:|
+| [![Stats](https://acedev003-readme-stats.vercel.app/api?username=ThanhNam22&show_icons=true&theme=radical&count_private=true&hide=issues,contribs)](https://github.com/ThanhNam22) | [![Langs](https://acedev003-readme-stats.vercel.app/api/top-langs/?username=ThanhNam22&layout=compact&theme=radical&hide=c%2b%2b,c,HTML,CMake,Batchfile,VBscript,autoit)](https://github.com/ThanhNam22) |
+
 </table>
-  </div>
+</div>
 
 ###
 
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
-
+<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif" />
 
 <h2 align="left">🛠 Tech Stack:</h2>
 
