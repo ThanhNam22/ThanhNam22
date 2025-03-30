@@ -8,7 +8,7 @@
 
 <div align="center">  
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ThanhNam22theme=radical)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ThanhNam22&theme=radical)
 </div>
 <div align="center">
 <table>
