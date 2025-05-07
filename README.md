@@ -6,14 +6,8 @@
 <br/>
 
 <div align="center">
-  <table>
-  <a href="https://github.com/ThanhNam22">
-    <img src="https://github-readme-stats.vercel.app/api?username=ThanhNam22&show_icons=true&theme=radical&count_private=true&hide=issues,contribs" width="45%" style="vertical-align: top;" alt="GitHub Stats"/>
-  </a>
-  <a href="https://github.com/ThanhNam22">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThanhNam22&layout=compact&theme=radical&hide=c%2b%2b,c,HTML,CMake,Batchfile,VBscript,autoit" width="45%" style="vertical-align: top;" alt="Top Languages"/>
-  </a>
-  </table>table>
+![](https://github.com/ThanhNam22/github-stats/blob/master/generated/overview.svg)
+![](https://github.com/ThanhNam22/github-stats/blob/master/generated/languages.svg)
 </div>
 
 
