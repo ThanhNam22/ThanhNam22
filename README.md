@@ -6,12 +6,14 @@
 <br/>
 
 <div align="center">
+  <table>
   <a href="https://github.com/ThanhNam22">
     <img src="https://github-readme-stats.vercel.app/api?username=ThanhNam22&show_icons=true&theme=radical&count_private=true&hide=issues,contribs" width="45%" style="vertical-align: top;" alt="GitHub Stats"/>
   </a>
   <a href="https://github.com/ThanhNam22">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThanhNam22&layout=compact&theme=radical&hide=c%2b%2b,c,HTML,CMake,Batchfile,VBscript,autoit" width="45%" style="vertical-align: top;" alt="Top Languages"/>
   </a>
+  </table>table>
 </div>
 
 
@@ -28,6 +30,7 @@
 <h2 align="left">🛠 Tech Stack</h2>
 
 <img align="right" height="150" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExaTZxMXgwaTcxZ2wzZ21qbDVtZjk2NGlmZzBiYXQ2ZjZtMmNtbzZpZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2IudUHdI075HL02Pkk/giphy.gif" />
+
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo" />
