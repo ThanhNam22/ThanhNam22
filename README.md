@@ -6,8 +6,8 @@
 <br/>
 
 <div align="center">
-![](https://github.com/ThanhNam22/github-stats/blob/master/generated/overview.svg)
-![](https://github.com/ThanhNam22/github-stats/blob/master/generated/languages.svg)
+<img src="https://github.com/ThanhNam22/github-stats/blob/master/generated/overview.svg"/>
+<img src="https://github.com/ThanhNam22/github-stats/blob/master/generated/languages.svg"/>
 </div>
 
 
