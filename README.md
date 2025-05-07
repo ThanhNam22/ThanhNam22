@@ -3,21 +3,17 @@
 </p>
 
 <h2 align="center">Hi 👋! I'm <span style="color:#f92672">Thanh Nam</span>, a passionate Software Engineer 🚀</h2>
-
-<p align="center">
-  <em>"Turning complex problems into clean, efficient code is my kind of fun."</em>
-</p>
-
 <br/>
 
 <div align="center">
   <a href="https://github.com/ThanhNam22">
-    <img src="https://github-readme-stats.vercel.app/api?username=ThanhNam22&show_icons=true&theme=radical&count_private=true&hide=issues,contribs" width="45%" alt="GitHub Stats"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=ThanhNam22&show_icons=true&theme=radical&count_private=true&hide=issues,contribs" width="45%" style="vertical-align: top;" alt="GitHub Stats"/>
   </a>
   <a href="https://github.com/ThanhNam22">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThanhNam22&layout=compact&theme=radical&hide=c%2b%2b,c,HTML,CMake,Batchfile,VBscript,autoit" width="45%" alt="Top Languages"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThanhNam22&layout=compact&theme=radical&hide=c%2b%2b,c,HTML,CMake,Batchfile,VBscript,autoit" width="45%" style="vertical-align: top;" alt="Top Languages"/>
   </a>
 </div>
+
 
 <br/>
 
