@@ -2,7 +2,7 @@
   <img src="coding.png" alt="App Icon" width="120">
 </p>
 
-<h2 align="center">Hi 👋! My name is Thanh Nam and I'm a software engineer</h2>
+<h2 align="center">Hi 👋! My name is Thanh Nam and I'm a Software Engineer</h2>
 
 ###
 
