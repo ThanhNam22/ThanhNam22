@@ -2,27 +2,35 @@
   <img src="coding.png" alt="App Icon" width="120">
 </p>
 
-<h2 align="center">Hi 👋! My name is Thanh Nam and I'm a Software Engineer</h2>
+<h2 align="center">Hi 👋! I'm <span style="color:#f92672">Thanh Nam</span>, a passionate Software Engineer 🚀</h2>
 
-###
+<p align="center">
+  <em>"Turning complex problems into clean, efficient code is my kind of fun."</em>
+</p>
 
-<div align="center">  
-  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=ThanhNam22&theme=radical" alt="GitHub Streak" /></a>
-</div>
+<br/>
 
 <div align="center">
-<table>
-  
-| My Github Stats | My most used languages |
-|:-:|:-:|
-| [![Stats](https://acedev003-readme-stats.vercel.app/api?username=ThanhNam22&show_icons=true&theme=radical&count_private=true&hide=issues,contribs)](https://github.com/ThanhNam22) | [![Langs](https://acedev003-readme-stats.vercel.app/api/top-langs/?username=ThanhNam22&layout=compact&theme=radical&hide=c%2b%2b,c,HTML,CMake,Batchfile,VBscript,autoit)](https://github.com/ThanhNam22) |
-
-</table>
+  <a href="https://github.com/ThanhNam22">
+    <img src="https://github-readme-stats.vercel.app/api?username=ThanhNam22&show_icons=true&theme=radical&count_private=true&hide=issues,contribs" width="45%" alt="GitHub Stats"/>
+  </a>
+  <a href="https://github.com/ThanhNam22">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThanhNam22&layout=compact&theme=radical&hide=c%2b%2b,c,HTML,CMake,Batchfile,VBscript,autoit" width="45%" alt="Top Languages"/>
+  </a>
 </div>
 
-###
+<br/>
 
-<h2 align="left">🛠 Tech Stack:</h2>
+<div align="center">
+  <a href="https://git.io/streak-stats">
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=ThanhNam22&theme=radical" alt="GitHub Streak" />
+  </a>
+</div>
+
+<br/>
+
+<h2 align="left">🛠 Tech Stack</h2>
+
 <img align="right" height="150" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExaTZxMXgwaTcxZ2wzZ21qbDVtZjk2NGlmZzBiYXQ2ZjZtMmNtbzZpZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2IudUHdI075HL02Pkk/giphy.gif" />
 
 <div align="left">
@@ -38,7 +46,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="30" alt="microsoft sql server logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="30" alt="sql server logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo" />
   <img width="12" />
