@@ -23,7 +23,7 @@
 ###
 
 <h2 align="left">🛠 Tech Stack:</h2>
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif" />
+<img align="right" height="150" src="[https://i.imgflip.com/65efzo.gif](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExaTZxMXgwaTcxZ2wzZ21qbDVtZjk2NGlmZzBiYXQ2ZjZtMmNtbzZpZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2IudUHdI075HL02Pkk/giphy.gif)" />
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo" />
   <img width="12" />
