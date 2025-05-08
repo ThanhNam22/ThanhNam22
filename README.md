@@ -14,7 +14,7 @@
 <br/>
 
 <div align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=ThanhNam22&theme=radical" alt="GitHub Streak" />
+    <img src="https://github-readme-stats.vercel.app/api?username=ThanhNam22&show_icons=true&theme=radical" alt="GitHub Streak" />
 </div>
 
 
@@ -27,7 +27,8 @@
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo" />
-  <img width="12" />
+  <img width="12"
+ />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="30" alt="flutter logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="30" alt="dart logo" />
