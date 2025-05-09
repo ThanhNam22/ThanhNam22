@@ -2,7 +2,7 @@
   <img src="coding.png" alt="App Icon" width="120">
 </p>
 
-<h2 align="center">Hi 👋! I'm <span style="color:#f92672">Thanh Nam</span>, a Software Engineer 🚀</h2>
+<h2 align="center">Hi 👋! I'm <span style="color:#f92672">Thanh Nam</span></h2>
 <br/>
 
 <div align="center">
