@@ -4,7 +4,9 @@
 
 <h2 align="center">Hi 👋! I'm <span style="color:#f92672">Thanh Nam</span></h2>
 <br/>
-![](https://komarev.com/ghpvc/?username=ThanhNam22)
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ThanhNam22&color=brightgreen" alt="Profile Views" />
+</p>
 <div align="center">
 <img src="https://github.com/ThanhNam22/github-stats/blob/master/generated/overview.svg"/>
 <img src="https://github.com/ThanhNam22/github-stats/blob/master/generated/languages.svg"/>
