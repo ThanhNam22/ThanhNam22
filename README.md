@@ -4,7 +4,7 @@
 
 <h2 align="center">Hi 👋! I'm <span style="color:#f92672">Thanh Nam</span></h2>
 <br/>
-
+![](https://komarev.com/ghpvc/?username=ThanhNam22)
 <div align="center">
 <img src="https://github.com/ThanhNam22/github-stats/blob/master/generated/overview.svg"/>
 <img src="https://github.com/ThanhNam22/github-stats/blob/master/generated/languages.svg"/>
@@ -37,7 +37,8 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo" />
+  <img src
+="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="30" alt="sql server logo" />
   <img width="12" />
